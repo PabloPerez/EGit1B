@@ -3,6 +3,7 @@ public class ClaseDevelop1 {
 
 	private int atributocambio2;
 	private int atributocambio3;
+	private String atributocambio5;
 	
 	//cambio4
 	public int getAtributocambio2() {
@@ -18,5 +19,6 @@ public class ClaseDevelop1 {
 		this.atributocambio3 = atributocambio3;
 	}
 
+	
 	
 }
