@@ -6,6 +6,8 @@ public class ClaseDevelop1 {
 	private String atributocambio103;
 	//CAMBIORELEASE104
 	private int atributocambio104;
+	//CAMBIORELEASE105
+	private int atributocambio105;
 	
 	//CAMBIO RELEASE102
 	public int getAtributocambio3() {
