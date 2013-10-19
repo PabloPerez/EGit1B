@@ -12,6 +12,9 @@ public class ClaseDevelop1 {
 	public void setAtributocambio2(int atributocambio2) {
 		this.atributocambio2 = atributocambio2;
 	}
+	private String atributocambio103;
+	
+	//CAMBIO RELEASE102
 	public int getAtributocambio3() {
 		return atributocambio3;
 	}
